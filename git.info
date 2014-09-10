@@ -22,7 +22,7 @@ Reference
 	4. Copy repository from git ie: https://github.com/Piyush-Sharma5767/plugin.git
 	5. $git remote add origin(Source Directory) <remote repository URL>
 	6. $git remote -v
-	7. $git push origin master
+	7. $git push origin master or $git pull origin master 
 
 
 Delete a file from git repository
