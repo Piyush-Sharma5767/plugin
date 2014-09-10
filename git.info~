@@ -1,0 +1,33 @@
+Git Details
+username : Piyush-Sharma5767
+Piyush-Sharma5767
+pass:piyush5767
+
+
+
+Git Commands
+https://github.com/Piyush-Sharma5767/plugin.git
+Reference
+1. https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
+2. https://help.github.com/articles/adding-a-remote
+3. http://git-scm.com/docs/gittutorial
+4. http://git-scm.com/docs/git-help
+5. https://try.github.io/levels/1/challenges/6(Git Command Line Editor Online)
+
+1. git clone <repository> -> to clone git content into directory
+2. To fetch Data into git
+	1. Go to source(Root) $git init
+	2. $git add .
+	3. git commit -m 'First commit'
+	4. Copy repository from git ie: https://github.com/Piyush-Sharma5767/plugin.git
+	5. $git remote add origin(Source Directory) <remote repository URL>
+	6. $git remote -v
+	7. $git push origin master
+
+
+Delete a file from git repository
+1. go to the source path -> git rm "file_name"
+$git commit -m "File Deleted"(Giving a message)
+$git push
+
+
